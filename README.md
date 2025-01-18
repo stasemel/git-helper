@@ -3,7 +3,7 @@
 [Скачть Git](https://git-scm.com/download/win)
 Запускать Git Bash
 
-## Команлы Git Bash
+## Команды Git Bash
 
 - **mkdir**  создать директорию
 - **mkdir -p dir1/dir-inside/dir-deeper-inside** создать структуру директорий
@@ -57,4 +57,10 @@
 - **git clone https://github.com/yandex-praktikum/git-clone-lesson** клонирование к себе
 - fork позволяет скопировать к себе без связи с оригинальным проектом 
 
+## Консольная работа с JAVA
+
+- **javac -d bin -encodin UTF8 *.java** скомпилировать в директорию bin все файлы .java**
+- **java имя_класса** запустить программу
+- **jar cfe decoder.jar DecoderTest -C bin .** создать jar
+- **java -jar decoder.jar** выполнить jar
 
