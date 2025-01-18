@@ -1,4 +1,4 @@
-# Помошник по Git
+# Помощник по Git
 
 [Скачть Git](https://git-scm.com/download/win)
 Запускать Git Bash
