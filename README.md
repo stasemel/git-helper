@@ -51,7 +51,7 @@
 
 ### Работа с удаленным репозиторием
 
-- **git remote add origin git@github.com:%ИМЯ_АККАУНТА%/first-project.git** свзять локальный с Git Hub origin - имя
+- **git remote add origin git@github.com:%ИМЯ_АККАУНТА%/first-project.git** свзять локальный с Git Hub origin - имя. Нужно создать репозиторий на git-hub и взять там ссылку
 - **git remote -v** проверить связь
 - **git clone https://github.com/yandex-praktikum/git-clone-lesson** клонирование к себе
 - fork позволяет скопировать к себе без связи с оригинальным проектом 
