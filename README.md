@@ -125,6 +125,9 @@
 
 
 ## Украшательства
+
+https://gitverse.ru/docs/get-started/markup-guide/
+
 HEAD -- это голова.
 Коммит -- это всему голова.
 Статусы файлов:
